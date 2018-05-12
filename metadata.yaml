@@ -1,0 +1,34 @@
+_repo: La-Sorci-re_41486
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41486-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Michelet, Jules
+    alias: Michelet, J.
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '8214'
+    url: http://www.gutenberg.org/2009/agents/8214
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Michelet
+    - http://fr.wikipedia.org/wiki/Jules_Michelet
+description: ''
+gutenberg_bookshelf: FR Occultisme
+gutenberg_issued: '2012-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41486'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Demonomania -- History -- To 1500'
+- !lcsh 'Witchcraft -- History -- To 1500'
+- !lcsh 'Satanism -- History -- To 1500'
+- !lcsh 'Superstition -- History -- To 1500'
+title: La Sorcière
+url: http://www.gutenberg.org/ebooks/41486
